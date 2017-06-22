@@ -1,5 +1,3 @@
-{
-    "rules": {
-        "semi": "rror"
-    }
-}
+---
+  rules:
+    semi: rror

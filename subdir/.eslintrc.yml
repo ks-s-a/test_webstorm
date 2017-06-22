@@ -1,6 +1,4 @@
-{
-    "root": true,
-    "rules": {
-        "semi": "off"
-    }
-}
+---
+  root: true
+  rules:
+    semi: off
